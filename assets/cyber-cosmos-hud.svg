@@ -1,0 +1,231 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="100%" height="100%">
+  <defs>
+    <!-- Cosmic Void Background Gradient -->
+    <linearGradient id="cosmosBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04000c" />
+      <stop offset="45%" stop-color="#0b0322" />
+      <stop offset="80%" stop-color="#14052f" />
+      <stop offset="100%" stop-color="#031626" />
+    </linearGradient>
+
+    <!-- Cyber Grid Horizon Glow -->
+    <linearGradient id="gridGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff007f" stop-opacity="0.0" />
+      <stop offset="30%" stop-color="#ff007f" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0.7" />
+    </linearGradient>
+
+    <!-- Radar Sweep Gradient -->
+    <linearGradient id="radarBeam" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.65" />
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Neon Glow Filter -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      .terminal-text { font-family: 'Courier New', Courier, monospace; font-size: 12.5px; fill: #00f0ff; }
+      .terminal-green { font-family: 'Courier New', Courier, monospace; font-size: 12px; fill: #00ff9d; }
+      .terminal-pink { font-family: 'Courier New', Courier, monospace; font-size: 12.5px; fill: #ff007f; font-weight: bold; }
+      .terminal-warn { font-family: 'Courier New', Courier, monospace; font-size: 11.5px; fill: #ffb800; }
+      .hud-title { font-family: 'Courier New', Courier, monospace; font-size: 20px; font-weight: bold; fill: #ffffff; letter-spacing: 3px; }
+      .hud-sub { font-family: 'Courier New', Courier, monospace; font-size: 11px; fill: #ff007f; letter-spacing: 2px; }
+
+      /* Twinkling Stars */
+      .star-1 { animation: twinkle 2.5s infinite ease-in-out; }
+      .star-2 { animation: twinkle 3.8s infinite ease-in-out 1s; }
+      .star-3 { animation: twinkle 1.9s infinite ease-in-out 0.5s; }
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.15; transform: scale(0.8); }
+        50% { opacity: 1; transform: scale(1.3); }
+      }
+
+      /* Moving Cyber Grid */
+      .grid-move {
+        stroke-dasharray: 8 12;
+        animation: dashScroll 3s linear infinite;
+      }
+      @keyframes dashScroll {
+        to { stroke-dashoffset: -40; }
+      }
+
+      /* CRT Scanline Sweep */
+      .scanline {
+        animation: scan 5s linear infinite;
+      }
+      @keyframes scan {
+        0% { transform: translateY(-400px); opacity: 0; }
+        15% { opacity: 0.35; }
+        85% { opacity: 0.35; }
+        100% { transform: translateY(400px); opacity: 0; }
+      }
+
+      /* Glitch Title Effect */
+      .glitch {
+        animation: glitchAnim 4s infinite;
+      }
+      @keyframes glitchAnim {
+        0%, 92%, 100% { transform: translate(0, 0); opacity: 1; }
+        93% { transform: translate(-3px, 1px); fill: #ff007f; }
+        95% { transform: translate(3px, -1px); fill: #00f0ff; }
+        97% { transform: translate(-2px, 0); opacity: 0.8; }
+      }
+
+      /* Blinking Cursor */
+      .cursor {
+        animation: blink 0.9s step-end infinite;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+
+      /* Floating Pixel Ghost / Drone */
+      .float-pixel {
+        animation: hoverBob 3.2s ease-in-out infinite;
+      }
+      @keyframes hoverBob {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+      }
+
+      /* Pulsing Alert Node */
+      .pulse-node {
+        animation: pulseAlert 1.6s infinite ease-out;
+      }
+      @keyframes pulseAlert {
+        0% { r: 3; opacity: 1; }
+        100% { r: 16; opacity: 0; }
+      }
+
+      /* Shooting Comet */
+      .comet {
+        animation: shoot 6s linear infinite;
+      }
+      @keyframes shoot {
+        0% { transform: translate(0, 0); opacity: 0; }
+        5% { opacity: 1; }
+        25% { transform: translate(-650px, 180px); opacity: 0; }
+        100% { transform: translate(-650px, 180px); opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- 1. Deep Space Background -->
+  <rect width="900" height="400" rx="14" fill="url(#cosmosBg)" stroke="#00f0ff" stroke-width="2" stroke-opacity="0.5" />
+
+  <!-- 2. Cosmic Starfield & Shooting Comet -->
+  <g fill="#ffffff">
+    <circle cx="80" cy="45" r="1.5" class="star-1" />
+    <circle cx="195" cy="28" r="1.2" class="star-2" />
+    <circle cx="340" cy="60" r="2" class="star-3" fill="#00f0ff" />
+    <circle cx="480" cy="30" r="1.4" class="star-1" />
+    <circle cx="620" cy="52" r="2.2" class="star-2" fill="#ff007f" />
+    <circle cx="770" cy="25" r="1.5" class="star-3" />
+    <circle cx="845" cy="70" r="1.8" class="star-1" fill="#00ff9d" />
+    <circle cx="540" cy="110" r="1.2" class="star-2" />
+    <circle cx="120" cy="140" r="1.5" class="star-3" />
+    <circle cx="820" cy="155" r="1.3" class="star-1" />
+  </g>
+  <!-- Shooting Star -->
+  <g class="comet">
+    <line x1="850" y1="20" x2="890" y2="9" stroke="#00f0ff" stroke-width="2" stroke-linecap="round" filter="url(#neonGlow)" />
+    <circle cx="850" cy="20" r="2.5" fill="#ffffff" filter="url(#neonGlow)" />
+  </g>
+
+  <!-- 3. Retro Cyberpunk Perspective Grid (Bottom Horizon) -->
+  <g opacity="0.55">
+    <line x1="0" y1="290" x2="900" y2="290" stroke="#ff007f" stroke-width="1.5" filter="url(#neonGlow)" />
+    <line x1="0" y1="315" x2="900" y2="315" stroke="#ff007f" stroke-width="1" stroke-opacity="0.6" />
+    <line x1="0" y1="345" x2="900" y2="345" stroke="#00f0ff" stroke-width="1" stroke-opacity="0.6" />
+    <line x1="0" y1="380" x2="900" y2="380" stroke="#00f0ff" stroke-width="1.5" stroke-opacity="0.8" />
+    <!-- Perspective Rays -->
+    <line x1="450" y1="290" x2="-100" y2="400" stroke="url(#gridGlow)" stroke-width="1.5" class="grid-move" />
+    <line x1="450" y1="290" x2="100" y2="400" stroke="url(#gridGlow)" stroke-width="1.5" class="grid-move" />
+    <line x1="450" y1="290" x2="280" y2="400" stroke="url(#gridGlow)" stroke-width="1.5" class="grid-move" />
+    <line x1="450" y1="290" x2="450" y2="400" stroke="url(#gridGlow)" stroke-width="1.5" class="grid-move" />
+    <line x1="450" y1="290" x2="620" y2="400" stroke="url(#gridGlow)" stroke-width="1.5" class="grid-move" />
+    <line x1="450" y1="290" x2="800" y2="400" stroke="url(#gridGlow)" stroke-width="1.5" class="grid-move" />
+    <line x1="450" y1="290" x2="1000" y2="400" stroke="url(#gridGlow)" stroke-width="1.5" class="grid-move" />
+  </g>
+
+  <!-- 4. Top Classified Header Bar -->
+  <rect x="20" y="16" width="860" height="44" rx="6" fill="#090218" fill-opacity="0.85" stroke="#ff007f" stroke-width="1.2" />
+  <circle cx="42" cy="38" r="6" fill="#ff0055" />
+  <circle cx="62" cy="38" r="6" fill="#ffb800" />
+  <circle cx="82" cy="38" r="6" fill="#00ff9d" />
+  <text x="110" y="44" class="hud-title glitch" filter="url(#neonGlow)">SYS.NODE // VAIBHAW1103</text>
+  <text x="615" y="42" class="hud-sub">[ CLEARANCE: OMEGA // DEHRADUN_IN ]</text>
+
+  <!-- 5. Left Panel: Encrypted Hacker Terminal -->
+  <rect x="20" y="75" width="530" height="295" rx="8" fill="#05020f" fill-opacity="0.88" stroke="#00f0ff" stroke-width="1.5" />
+  <line x1="20" y1="103" x2="550" y2="103" stroke="#00f0ff" stroke-width="1" stroke-opacity="0.4" />
+  <text x="35" y="94" class="terminal-pink">root@black-site-orbital:~# ./decrypt_dossier.sh --target vaibhav</text>
+
+  <text x="35" y="126" class="terminal-green">[✓] IDENTITY VERIFIED : Vaibhav Bhandari (B.Tech CSE '26)</text>
+  <text x="35" y="148" class="terminal-text">[+] SPECIALIZATION    : AI/ML • Cybersecurity • IoT Telemetry</text>
+  <text x="35" y="170" class="terminal-text">[+] ENGINE_01         : Zero-Day AI Firewall (UNSW-NB15 / eBPF / 94% Acc)</text>
+  <text x="35" y="192" class="terminal-text">[+] ENGINE_02         : SafeCompile (LLVM/Clang + ML Vulnerability Parser)</text>
+  <text x="35" y="214" class="terminal-text">[+] ENGINE_03         : ESP32 Carbon & Tamper Grid (635→5 False Alerts)</text>
+  <text x="35" y="236" class="terminal-text">[+] ENGINE_04         : CardioPulse Neural Predictor (70K+ Clinical Records)</text>
+  <text x="35" y="262" class="terminal-warn">[!] ANOMALY DETECTED  : Top 11% AWS Jam • Top 80 Google Cloud Study Jam</text>
+  <text x="35" y="284" class="terminal-pink">[!] THREAT MATRIX     : Kali • Wireshark • Nmap • Metasploit • PyTorch/Sklearn</text>
+
+  <!-- Live Command Prompt with Blinking Block -->
+  <text x="35" y="320" class="terminal-green">vaibhav@cyber-nexus:~$ tail -f /var/log/neural_net.stream</text>
+  <text x="35" y="344" class="terminal-text">> STATUS: ALL DEFENSE & INFERENCE NODES ONLINE </text>
+  <rect x="385" y="332" width="9" height="15" fill="#00ff9d" class="cursor" />
+
+  <!-- 6. Right Panel: Cosmic Cyber-Radar & Pixel Mystery Drone -->
+  <rect x="568" y="75" width="312" height="295" rx="8" fill="#05020f" fill-opacity="0.88" stroke="#ff007f" stroke-width="1.5" />
+  <text x="585" y="98" class="hud-sub">[ DEEP-SPACE TELEMETRY & SONAR ]</text>
+
+  <!-- Radar Circles -->
+  <g transform="translate(724, 215)">
+    <circle cx="0" cy="0" r="92" fill="none" stroke="#00f0ff" stroke-width="1" stroke-opacity="0.35" />
+    <circle cx="0" cy="0" r="65" fill="none" stroke="#00f0ff" stroke-width="1" stroke-dasharray="6 4" stroke-opacity="0.5">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="0" cy="0" r="38" fill="none" stroke="#ff007f" stroke-width="1" stroke-dasharray="4 6" stroke-opacity="0.6">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite" />
+    </circle>
+    <line x1="-95" y1="0" x2="95" y2="0" stroke="#00f0ff" stroke-width="0.7" stroke-opacity="0.3" />
+    <line x1="0" y1="-95" x2="0" y2="95" stroke="#00f0ff" stroke-width="0.7" stroke-opacity="0.3" />
+
+    <!-- Rotating Radar Sweep Sector -->
+    <path d="M 0 0 L 65 -65 A 92 92 0 0 1 92 0 Z" fill="url(#radarBeam)">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite" />
+    </path>
+
+    <!-- Detected Target Blips on Radar -->
+    <circle cx="42" cy="-35" r="3.5" fill="#ff0055" filter="url(#neonGlow)" />
+    <circle cx="42" cy="-35" r="3.5" fill="none" stroke="#ff0055" stroke-width="1.5" class="pulse-node" />
+    <circle cx="-48" cy="28" r="3" fill="#00ff9d" filter="url(#neonGlow)" />
+    <circle cx="-18" cy="-52" r="2.5" fill="#00f0ff" />
+
+    <!-- Center Pixel-Art Cyber Core (Floating) -->
+    <g class="float-pixel">
+      <rect x="-12" y="-12" width="24" height="24" fill="#ff007f" opacity="0.25" />
+      <rect x="-8" y="-8" width="16" height="16" fill="#00f0ff" filter="url(#neonGlow)" />
+      <rect x="-4" y="-4" width="8" height="8" fill="#ffffff" />
+      <!-- Pixel Wings -->
+      <rect x="-20" y="-4" width="6" height="8" fill="#ff007f" />
+      <rect x="14" y="-4" width="6" height="8" fill="#ff007f" />
+      <rect x="-4" y="-20" width="8" height="6" fill="#00ff9d" />
+      <rect x="-4" y="14" width="8" height="6" fill="#00ff9d" />
+    </g>
+  </g>
+
+  <text x="585" y="342" class="terminal-green">ZERO-DAY SHIELD : ENGAGED</text>
+  <text x="585" y="358" class="terminal-pink">PACKET STREAM   : ENCRYPTED</text>
+
+  <!-- 7. Full-Screen CRT Scanline Overlay -->
+  <rect x="0" y="0" width="900" height="18" fill="#00f0ff" opacity="0.12" class="scanline" />
+</svg>
