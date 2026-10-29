@@ -11,7 +11,7 @@
   <!-- 2. CENTERED SINGLE-LINE HACKER TYPEWRITER (NO LEFT-CLIPPING BUGS)     -->
   <!-- ===================================================================== -->
   <a href="https://github.com/vaibhaw1103">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=45&lines=%5B+TRANSMISSION+ACTIVE+%5D+Vaibhav+Bhandari+%2F%2F+CSE+Graduate+'26;Computer+Science+Engineer+%7C+Cybersecurity+%26+Machine+Learning;Architecting+Zero-Day+AI+Firewalls%2C+Secure+Compilers+%26+IoT+Grids;Top+11%25+AWS+Jam+India+%E2%80%A2+Amazon+ML+Challenge+51%25+SMAPE+%E2%80%A2+Top+80+GCP" alt="Live Hacker Typewriter" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=45&lines=Vaibhav+Bhandari+%E2%80%94+Computer+Science+Engineer+'26;Cybersecurity+%E2%80%A2+Machine+Learning+%E2%80%A2+IoT+Systems;Architecting+Zero-Day+AI+Firewalls%2C+Secure+Compilers+%26+IoT+Grids;Top+11%25+AWS+Jam+India+%E2%80%A2+Amazon+ML+Challenge+51%25+SMAPE+%E2%80%A2+Top+80+GCP" alt="Live Hacker Typewriter" />
   </a>
 
   <br/>
@@ -21,15 +21,15 @@
   <!-- ===================================================================== -->
   <p align="center">
     <a href="https://www.linkedin.com/in/vaibhav-bhandari-264198248/">
-      <img src="https://img.shields.io/badge/LINKEDIN_//_UPLINK-090218?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=ff007f" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-Connect-090218?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=ff007f" alt="LinkedIn" />
     </a>
     <a href="mailto:vaibhav.bhandari1103@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL_//_TRANSMIT-090218?style=for-the-badge&logo=gmail&logoColor=ff007f&labelColor=00f0ff" alt="Email" />
+      <img src="https://img.shields.io/badge/GMAIL-Contact_Me-090218?style=for-the-badge&logo=gmail&logoColor=ff007f&labelColor=00f0ff" alt="Email" />
     </a>
     <a href="https://github.com/vaibhaw1103?tab=repositories">
-      <img src="https://img.shields.io/badge/REPOS_//_BLACK_SITE-090218?style=for-the-badge&logo=github&logoColor=00ff9d&labelColor=7000ff" alt="Repositories" />
+      <img src="https://img.shields.io/badge/GITHUB-Repositories-090218?style=for-the-badge&logo=github&logoColor=00ff9d&labelColor=7000ff" alt="Repositories" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=vaibhaw1103&label=INTRUSION_ATTEMPTS&color=ff007f&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=vaibhaw1103&label=PROFILE+VIEWS&color=ff007f&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
@@ -37,68 +37,70 @@
 <!-- ANIMATED RGB LASER DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛰️ `// 01_CLASSIFIED_OPERATOR_DOSSIER.DAT`
+<h2 align="center">🛰️ Classified Operator Dossier</h2>
 
-> *"Every complex system leaves a signature in the noise—whether it's a zero-day exploit hiding in a 2.5-million-row packet stream, an unsafe pointer inside C/C++ source code, or phantom current inside an ESP32 sensor grid. I engineer the intelligent systems that detect, isolate, and neutralize them."*
+<p align="center">
+  <i>"Every complex system leaves a signature in the noise—whether it's a zero-day exploit hiding in a 2.5-million-row packet stream, an unsafe pointer inside C/C++ source code, or phantom current inside an ESP32 sensor grid. I engineer the intelligent systems that detect, isolate, and neutralize them."</i>
+</p>
 
 ```diff
-+ OPERATOR       :: Vaibhav Bhandari [ Alias: vaibhaw1103 ]
-+ HEADLINE       :: Computer Science Engineer | Cybersecurity & Machine Learning | Python, C++, Flask
++ OPERATOR       :: Vaibhav Bhandari (GitHub: @vaibhaw1103)
++ ROLE           :: Computer Science Engineer | Cybersecurity & Machine Learning | Python, C++, Flask
 + EDUCATION      :: B.Tech in Computer Science & Engineering (2022–2026) @ Graphic Era Hill University, Dehradun
-+ CORE_DOMAINS   :: Applied AI/ML × Offensive/Defensive Cybersecurity × Real-Time IoT × Full-Stack Systems
-! HONORS_LOG_01  :: Amazon ML Challenge 2025 — Achieved 51% SMAPE via Advanced Feature Engineering & Tuning
-! HONORS_LOG_02  :: AWS Jam India — Ranked Top 11% (36 / 342) in Cloud Security & Automation Challenges
-! HONORS_LOG_03  :: Google Cloud Study Jam — Ranked Top 80 Nationwide in AI & Cloud Track Completion
++ FOCUS AREAS    :: Applied AI/ML • Offensive & Defensive Cybersecurity • Real-Time IoT • Full-Stack Systems
+! ACHIEVEMENT 01 :: Amazon ML Challenge 2025 — Achieved 51% SMAPE via Advanced Feature Engineering & Tuning
+! ACHIEVEMENT 02 :: AWS Jam India — Ranked Top 11% (36 / 342) in Cloud Security & Automation Challenges
+! ACHIEVEMENT 03 :: Google Cloud Study Jam — Ranked Top 80 Nationwide in AI & Cloud Track Completion
 ```
 
 <details>
-<summary><b>🔓 [ CLICK TO DECRYPT ] — EXPAND FULL SECURITY CLEARANCE, CERTIFICATIONS &amp; LORE</b></summary>
+<summary><b>🔓 Click to Decrypt — Full Security Clearance, Certifications &amp; Background</b></summary>
 <br/>
 
 ```yaml
-encryption_cipher: "CHACHA20-POLY1305 // ORBITAL_NODE_DEHRADUN"
-operator_credentials:
-  academic_base: "Graphic Era Hill University, Dehradun (B.Tech CSE '26 | CGPA: 7.38/10)"
-  engineering_philosophy: >
+Operator Profile:
+  Academic Base: "Graphic Era Hill University, Dehradun (B.Tech CSE '26 )"
+  Engineering Philosophy: >
     Understand complex systems from the hardware and kernel up, identify root causes rather than
     patching symptoms, and combine AI with systems engineering to deliver measurable real-world impact.
-  verified_certifications:
-    - "Google — Foundations of Cybersecurity"
-    - "Coursera (Andrew Ng) — Machine Learning Specialization"
-    - "Deloitte Australia (Forage) — Data Analytics & Cybersecurity Virtual Job Simulations"
-    - "SWAYAM & Coursera — Cyber Security Tools, Techniques and Countermeasures"
-    - "Cisco — CCNA: Enterprise, Networking, and Automation"
-  hackathons_and_combat:
-    - "Amazon ML Challenge 2025 (51% SMAPE)"
-    - "AWS Jam India (Top 11% — Rank 36/342, 380 Points)"
-    - "GDG on Campus Solution Challenge 2025"
-    - "SuRaksha Cyber Hackathon • HackWithInfy • TCS HackQuest"
+
+Verified Certifications:
+  - Google — Foundations of Cybersecurity
+  - Coursera (Andrew Ng) — Machine Learning Specialization
+  - Deloitte Australia (Forage) — Data Analytics & Cybersecurity Virtual Job Simulations
+  - SWAYAM & Coursera — Cyber Security Tools, Techniques and Countermeasures
+  - Cisco — CCNA: Enterprise, Networking, and Automation
+
+Hackathons & Competitions:
+  - Amazon ML Challenge 2025 (51% SMAPE)
+  - AWS Jam India (Top 11% — Rank 36/342, 380 Points)
+  - GDG on Campus Solution Challenge 2025
+  - HackWithInfy • TCS HackQuest
 ```
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👾 `// 02_BLACK_SITE_OPERATIONS (INTERACTIVE PROJECT MATRIX)`
-
-*Click any classified operation below to inspect its internal system architecture, ML pipeline, and engineering impact:*
+<h2 align="center">👾 Featured Systems &amp; AI Architectures</h2>
+<p align="center"><i>Explore my core engineering projects across Cybersecurity, Compilers, Edge IoT, Healthcare AI, and Full-Stack Platforms:</i></p>
 
 <div align="center">
 
-| 🛸 Operation Codename | 🧠 Core Tech Stack | ⚡ Mission Impact & Telemetry |
+| 🛸 Project | 🧠 Core Tech Stack | ⚡ Architecture & Real-World Impact |
 | :--- | :--- | :--- |
-| **🛡️ ZERO-DAY AI FIREWALL**<br/>`[Kernel NetSec • ML]` | `Python` `eBPF/XDP` `Random Forest` `Isolation Forest` `One-Class SVM` `WebSocket` | High-speed intrusion detection firewall trained on **2.5M+ records (UNSW-NB15)**. Combines Linux kernel eBPF/XDP packet inspection with anomaly ensembles to block zero-day exploits & shellcode at **94% accuracy (0.91 F1)**. |
-| **🧬 SAFECOMPILE**<br/>`[AI Sec • Compilers]` | `Python` `Clang/LLVM` `Flask` `TensorFlow/ML` `Docker` `AST Parsing` | Modular AI-powered secure code compiler integrating lexical analysis, AST parsing, rule-based scanning, and ML models to flag **SQLi, XSS, and buffer overflows** at **~90% precision** across 1,000+ samples with automated fix suggestions. |
-| **📡 GHOST_CARBON_IOT**<br/>`[IoT • Tamper Grid]` | `ESP32` `MQTT` `Flask` `JSON` `Time-Series Rolling Baseline` | 5-sensor carbon emission & physical tamper monitoring grid streaming real-time JSON via MQTT. Engineered a dynamic rolling $\text{CO}_2$ baseline and resolved hardware phantom-current anomalies—cutting false alerts from **635 down to 5 actionable incidents**. |
-| **🫀 CARDIOPULSE**<br/>`[Clinical AI • Desktop]` | `Python` `Gradient Boosting` `Scikit-Learn` `PyQt5` `Pandas` `SQLite` | Cardiovascular risk prediction engine trained on **70,000+ patient records (74% accuracy)**. Engineered custom pulse-pressure features and deployed an interactive **PyQt5 clinical GUI** with SQLite patient record tracking. |
-| **🗺️ NAGARBANDHU**<br/>`[Civic Geo-Platform]` | `Next.js` `Node.js` `PostgreSQL` `Leaflet.js` `OpenStreetMap` `REST API` | Full-stack Digital India civic issue reporting platform featuring geo-tagged incident mapping, role-based access control (RBAC), optimized PostgreSQL schemas, and live municipal analytics dashboards. |
-| **🎙️ SAARTHI & BHASABUDDY**<br/>`[Voice AI • 10+ Languages]` | `Python` `QtDesigner` `SpeechRecognition` `TTS/STT` `Transliteration` | Modular voice-controlled OS desktop assistant (**SAARTHI**) paired with a regional neural speech-to-text & text-to-speech converter (**BHASABUDDY**) supporting **10+ Indian languages** and script transliteration. |
+| **🛡️ Zero-Day AI Firewall**<br/><sub><b>Kernel NetSec • Machine Learning</b></sub> | **Python • eBPF/XDP • Random Forest • Isolation Forest • WebSocket** | High-speed intrusion detection firewall trained on **2.5M+ records (UNSW-NB15)**. Combines Linux kernel eBPF/XDP packet inspection with anomaly ensembles to block zero-day exploits & shellcode at **94% accuracy (0.91 F1)**. |
+| **🧬 SafeCompile**<br/><sub><b>AI Security • Smart Compiler</b></sub> | **Python • Clang/LLVM • Flask • TensorFlow/ML • Docker • AST** | Modular AI-powered secure code compiler integrating lexical analysis, AST parsing, rule-based scanning, and ML models to flag **SQLi, XSS, and buffer overflows** at **~90% precision** across 1,000+ samples with automated fix suggestions. |
+| **📡 Ghost Carbon IoT**<br/><sub><b>Edge Telemetry • Tamper Grid</b></sub> | **ESP32 • MQTT • Flask • JSON • Time-Series Rolling Baseline** | 5-sensor carbon emission & physical tamper monitoring grid streaming real-time JSON via MQTT. Engineered a dynamic rolling $\text{CO}_2$ baseline and resolved hardware phantom-current anomalies—cutting false alerts from **635 down to 5 actionable incidents**. |
+| **🫀 CardioPulse**<br/><sub><b>Clinical AI • Desktop GUI</b></sub> | **Python • Gradient Boosting • Scikit-Learn • PyQt5 • Pandas • SQLite** | Cardiovascular risk prediction engine trained on **70,000+ patient records (74% accuracy)**. Engineered custom pulse-pressure features and deployed an interactive **PyQt5 clinical workstation** with SQLite patient record tracking. |
+| **🗺️ NagarBandhu**<br/><sub><b>Civic Geo-Platform</b></sub> | **Next.js • Node.js • PostgreSQL • Leaflet.js • OpenStreetMap** | Full-stack Digital India civic issue reporting platform featuring geo-tagged incident mapping, role-based access control (RBAC), optimized PostgreSQL schemas, and live municipal analytics dashboards. |
+| **🎙️ Saarthi & BhasaBuddy**<br/><sub><b>Voice AI • 10+ Indian Languages</b></sub> | **Python • QtDesigner • SpeechRecognition • TTS/STT • NLP** | Modular voice-controlled OS desktop assistant (**Saarthi**) paired with a regional neural speech-to-text & text-to-speech converter (**BhasaBuddy**) supporting **10+ Indian languages** and script transliteration. |
 
 </div>
 
-### 🔍 Inspect Classified System Blueprints (Click to Expand)
+<h3 align="center">🔍 Interactive System Blueprints (Click to Expand)</h3>
 
 <details>
-<summary><b>⚡ [ BLUEPRINT 01 ] — ZERO-DAY AI FIREWALL (eBPF/XDP + UNSW-NB15 PIPELINE)</b></summary>
+<summary><b>⚡ Blueprint 01 — Zero-Day AI Firewall (eBPF/XDP + UNSW-NB15 Pipeline)</b></summary>
 <br/>
 
 ```text
@@ -124,7 +126,7 @@ operator_credentials:
 </details>
 
 <details>
-<summary><b>🧬 [ BLUEPRINT 02 ] — SAFECOMPILE (HYBRID CLANG/LLVM AST + ML COMPILER)</b></summary>
+<summary><b>🧬 Blueprint 02 — SafeCompile (Hybrid Clang/LLVM AST + ML Compiler)</b></summary>
 <br/>
 
 ```text
@@ -145,7 +147,7 @@ operator_credentials:
 </details>
 
 <details>
-<summary><b>📡 [ BLUEPRINT 03 ] — IOT CARBON &amp; MULTI-SENSOR PHYSICAL TAMPER GRID</b></summary>
+<summary><b>📡 Blueprint 03 — IoT Carbon &amp; Multi-Sensor Physical Tamper Grid</b></summary>
 <br/>
 
 ```text
@@ -163,12 +165,14 @@ operator_credentials:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎮 `// 03_INTERACTIVE_CYBER_TERMINAL_GAME: HUNT THE ZERO-DAY`
+<h2 align="center">🎮 Interactive Cyber Terminal: Hunt the Zero-Day</h2>
 
-> **🕹️ LIVE MINI-GAME:** Anomalous traffic has been detected entering `SECTOR_VAIBHAW1103`. Can you isolate the zero-day attack vector before the kernel compromises? **Click one of the 3 packet streams below to execute your forensic scan:**
+<p align="center">
+  <b>🕹️ Live Mini-Game:</b> Anomalous traffic has been detected entering the network. Can you isolate the zero-day attack vector before the kernel compromises? <b>Click any packet stream below to run a forensic scan:</b>
+</p>
 
 <details>
-<summary><b>📦 [ INSPECT PACKET STREAM #01 ] — <code>TCP 192.168.4.12:443 ──► MQTT_BROKER (Payload: 128B JSON)</code></b></summary>
+<summary><b>📦 Inspect Packet Stream #01 — TCP 192.168.4.12:443 ➔ MQTT Broker (Payload: 128B JSON)</b></summary>
 <br/>
 
 ```diff
@@ -180,7 +184,7 @@ operator_credentials:
 </details>
 
 <details>
-<summary><b>📦 [ INSPECT PACKET STREAM #02 ] — <code>UDP 10.24.88.201:31337 ──► KERNEL_RING_0 (Payload: 0x909090_NOP_SLED)</code></b></summary>
+<summary><b>📦 Inspect Packet Stream #02 — UDP 10.24.88.201:31337 ➔ Kernel Ring 0 (Payload: 0x909090 NOP Sled)</b></summary>
 <br/>
 
 ```diff
@@ -189,12 +193,12 @@ operator_credentials:
 + ACTION TAKEN: Packet dropped at kernel boundary. Source IP blacklisted.
 + SafeCompile AST Patch deployed to neutralize buffer overflow vector.
 +
-+ 🏆 CONGRATULATIONS, OPERATOR! YOU DEFENDED THE NODE!
++ 🏆 CONGRATULATIONS, OPERATOR! YOU DEFENDED THE SYSTEM!
 ```
 </details>
 
 <details>
-<summary><b>📦 [ INSPECT PACKET STREAM #03 ] — <code>HTTPS 172.16.0.9:8080 ──► CARDIOPULSE_DB (Payload: SQLITE_QUERY)</code></b></summary>
+<summary><b>📦 Inspect Packet Stream #03 — HTTPS 172.16.0.9:8080 ➔ CardioPulse DB (Payload: SQLite Query)</b></summary>
 <br/>
 
 ```diff
@@ -207,7 +211,7 @@ operator_credentials:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚡ `// 04_CYBERWARE_&_TECH_ARSENAL`
+<h2 align="center">⚡ Tech Arsenal &amp; Cyberware</h2>
 
 <div align="center">
 
@@ -223,8 +227,8 @@ operator_credentials:
 
   <!-- SPECIALIZED CYBERSECURITY, DATA & HARDWARE PROTOCOLS -->
   <p>
-    <img src="https://img.shields.io/badge/eBPF_/_XDP_KERNEL-05020f?style=for-the-badge&logo=linux&logoColor=00ff9d&labelColor=1b063b" alt="eBPF" />
-    <img src="https://img.shields.io/badge/LLVM_/_CLANG_AST-05020f?style=for-the-badge&logo=llvm&logoColor=ff007f&labelColor=1b063b" alt="LLVM" />
+    <img src="https://img.shields.io/badge/eBPF_&_XDP_KERNEL-05020f?style=for-the-badge&logo=linux&logoColor=00ff9d&labelColor=1b063b" alt="eBPF" />
+    <img src="https://img.shields.io/badge/LLVM_&_CLANG_AST-05020f?style=for-the-badge&logo=llvm&logoColor=ff007f&labelColor=1b063b" alt="LLVM" />
     <img src="https://img.shields.io/badge/ESP32_&_MQTT_IOT-05020f?style=for-the-badge&logo=espressif&logoColor=00f0ff&labelColor=1b063b" alt="ESP32 MQTT" />
     <img src="https://img.shields.io/badge/WIRESHARK_&_NMAP-05020f?style=for-the-badge&logo=wireshark&logoColor=00f0ff&labelColor=1b063b" alt="Wireshark" />
     <img src="https://img.shields.io/badge/PANDAS_&_NUMPY-05020f?style=for-the-badge&logo=pandas&logoColor=ffb800&labelColor=1b063b" alt="Pandas" />
@@ -235,7 +239,7 @@ operator_credentials:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 `// 05_NEON_CYBER_SNAKE_INCURSION`
+<h2 align="center">🐍 Neon Contribution Matrix</h2>
 
 <div align="center">
   <picture>
@@ -247,7 +251,7 @@ operator_credentials:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 `// 06_ORBITAL_TELEMETRY_&_COMMIT_MATRIX`
+<h2 align="center">📊 Live GitHub Telemetry &amp; Commit Pulse</h2>
 
 <div align="center">
 
@@ -262,11 +266,11 @@ operator_credentials:
   <br/><br/>
 
   <!-- LIVE CYBERPUNK CONTRIBUTION WAVE GRAPH -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhaw1103&bg_color=04000c&color=00f0ff&line=ff007f&point=00ff9d&area=true&area_color=7000ff&hide_border=false&border_color=00f0ff&custom_title=REAL-TIME%20NEURAL%20COMMIT%20PULSE%20//%20OPERATOR%20VAIBHAW1103" alt="Commit Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhaw1103&bg_color=04000c&color=00f0ff&line=ff007f&point=00ff9d&area=true&area_color=7000ff&hide_border=false&border_color=00f0ff&custom_title=Real-Time%20Commit%20Activity%20%E2%80%94%20Vaibhav%20Bhandari" alt="Commit Activity Graph" />
 
   <br/><br/>
 
   <!-- CLEAN WAVING CYBER FOOTER (VALID GRADIENT SYNTAX) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=115&section=footer&text=%5B%20END%20OF%20TRANSMISSION%20//%20VAIBHAW1103%20//%20CONNECTION%20ENCRYPTED%20%5D&fontSize=14&fontColor=00ff9d&fontAlignY=68" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=115&section=footer&text=Vaibhav%20Bhandari%20%E2%80%A2%20Building%20Secure%20%26%20Intelligent%20Systems&fontSize=15&fontColor=00ff9d&fontAlignY=68" alt="Footer" />
 
 </div>
