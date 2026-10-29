@@ -173,19 +173,19 @@
   <text x="35" y="148" class="terminal-text">[+] SPECIALIZATION    : AI/ML • Cybersecurity • IoT Telemetry</text>
   <text x="35" y="170" class="terminal-text">[+] ENGINE_01         : Zero-Day AI Firewall (UNSW-NB15 / eBPF / 94% Acc)</text>
   <text x="35" y="192" class="terminal-text">[+] ENGINE_02         : SafeCompile (LLVM/Clang + ML Vulnerability Parser)</text>
-  <text x="35" y="214" class="terminal-text">[+] ENGINE_03         : ESP32 Carbon & Tamper Grid (635→5 False Alerts)</text>
+  <text x="35" y="214" class="terminal-text">[+] ENGINE_03         : ESP32 Carbon &amp; Tamper Grid (635→5 False Alerts)</text>
   <text x="35" y="236" class="terminal-text">[+] ENGINE_04         : CardioPulse Neural Predictor (70K+ Clinical Records)</text>
   <text x="35" y="262" class="terminal-warn">[!] ANOMALY DETECTED  : Top 11% AWS Jam • Top 80 Google Cloud Study Jam</text>
   <text x="35" y="284" class="terminal-pink">[!] THREAT MATRIX     : Kali • Wireshark • Nmap • Metasploit • PyTorch/Sklearn</text>
 
   <!-- Live Command Prompt with Blinking Block -->
   <text x="35" y="320" class="terminal-green">vaibhav@cyber-nexus:~$ tail -f /var/log/neural_net.stream</text>
-  <text x="35" y="344" class="terminal-text">> STATUS: ALL DEFENSE & INFERENCE NODES ONLINE </text>
+  <text x="35" y="344" class="terminal-text">> STATUS: ALL DEFENSE &amp; INFERENCE NODES ONLINE </text>
   <rect x="385" y="332" width="9" height="15" fill="#00ff9d" class="cursor" />
 
   <!-- 6. Right Panel: Cosmic Cyber-Radar & Pixel Mystery Drone -->
   <rect x="568" y="75" width="312" height="295" rx="8" fill="#05020f" fill-opacity="0.88" stroke="#ff007f" stroke-width="1.5" />
-  <text x="585" y="98" class="hud-sub">[ DEEP-SPACE TELEMETRY & SONAR ]</text>
+  <text x="585" y="98" class="hud-sub">[ DEEP-SPACE TELEMETRY &amp; SONAR ]</text>
 
   <!-- Radar Circles -->
   <g transform="translate(724, 215)">
